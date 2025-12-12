@@ -1,2 +1,20 @@
-# Hi-I-m-Chanisse-Computer-Scientist.-Aspiring-software-engineer.-Future-quantum-Scientist
-Welcome! Below I'll be sharing my portfolio as an aspiring software engineer on the path to becoming a computer scientist!
+# My Portfolio
+
+Welcome to my portfolio!  
+Here I share my projects, presentations, and learning journey.
+
+---
+
+## 📊 Slide Deck
+[View my presentation](https://docs.google.com/presentation/d/1BRX07kK6OU7nfxMuMI28txgJ8z2nQJUpkrRH0xaA0lo/edit?usp=sharing)  
+*(Replace the filename with yours if different.)*
+
+---
+
+## 🎥 Presentation Video
+[![Watch my video](https://youtu.be/SgQMSMvH6WA)
+
+---
+
+## 🧩 About Me
+Aspiring software engineer passionate about problem-solving, innovation, and building technology that matters.
