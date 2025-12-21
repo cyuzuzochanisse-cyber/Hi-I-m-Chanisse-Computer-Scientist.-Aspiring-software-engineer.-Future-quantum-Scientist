@@ -1,5 +1,5 @@
 # Hi, I'm Chanisse
-Aspiring  Research software engineer/ Quantum Scientist
+Aspiring  Quantum software engineer/ Research Scientist
 
 Welcome to my portfolio!  
 Here I share my projects, presentations, and learning journey.
