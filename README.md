@@ -17,6 +17,22 @@ Here I share my projects, presentations, and learning journey.
 
 ---
 
+## The google cloud project slide deck
+[View my project](https://gamma.app/docs/Empowering-Rwandan-Businesses-Smart-Inventory-Management-8b0b4q7dr1ij5fg?mode=doc)  
+
+
+---
+
+## The google cloud project demo
+[View our demo]( https://rugira-gyslain.web.app/)  
+email: rgyslain@kent.edu , password: pass123
+
+---
+
+
+
+
+
 ## 🧩 About Me
 Aspiring software engineer passionate about problem-solving, innovation, and building technology that matters.
 
